@@ -12,3 +12,4 @@ Recursos utilizados:
 –> Nunjucks; <br>
 
 ![site-operante](https://github.com/GuihLeme/Ecoleta/blob/master/ECOLETA.gif)
+![site-operante](https://github.com/GuihLeme/Ecoleta/blob/master/ECOLETA.png)
